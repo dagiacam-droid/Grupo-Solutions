@@ -1,0 +1,135 @@
+nro_sloc_prod;nro_cliente;fecha_solicitud_prod;ahorro_minimo_mensual;dia_de_pago;monto_ahorrado;nom_producto
+250001;5;12-12-2024;$250.000;DIA NRO 30;1000000;dep¢sito a plazo
+300025;5;12-03-2022;$250.000;DIA NRO 30;9250000;dep¢sito a plazo
+250002;6;20-01-2023;$125.000;DIA NRO 25;3375000;cuenta de ahorro para la vivienda
+250003;13;01-03-2025;$400.000;DIA NRO 10;400000;cuenta de ahorro para la vivienda
+250004;14;25-06-2023;$280.000;DIA NRO 25;5880000;cuenta de ahorro para la vivienda
+250005;15;15-09-2024;$210.000;DIA NRO 15;1470000;cuenta de ahorro para la vivienda
+250006;26;17-09-2022;$185.000;DIA NRO 10;5735000;cuenta de ahorro para la vivienda
+150030;26;17-09-2024;$185.000;DIA NRO 10;1295000;cuenta de ahorro tradicional
+150031;26;17-09-2024;$185.000;DIA NRO 10;1295000;cuenta de ahorro tradicional
+250007;27;05-02-2025;$230.000;DIA NRO 5;460000;cuenta de ahorro para la vivienda
+250008;29;30-07-2024;$170.000;DIA NRO 30;1360000;cuenta de ahorro para la vivienda
+250009;31;06-04-2025;$300.000;DIA NRO 25;0;cuenta de ahorro para la vivienda
+250010;34;15-11-2024;$240.000;DIA NRO 25;1200000;cuenta de ahorro para la vivienda
+250011;38;16-10-2023;$190.000;DIA NRO 10;3420000;cuenta de ahorro para la vivienda
+250012;39;29-12-2024;$210.000;DIA NRO 10;630000;cuenta de ahorro para la vivienda
+250013;40;18-02-2025;$310.000;DIA NRO 10;620000;cuenta de ahorro para la vivienda
+250014;41;16-02-2024;$210.000;DIA NRO 15;2940000;cuenta de ahorro para la vivienda
+250015;42;15-12-2023;$165.000;DIA NRO 15;2640000;cuenta de ahorro para la vivienda
+250016;44;25-03-2024;$155.000;DIA NRO 15;1860000;cuenta de ahorro para la vivienda
+250017;47;12-12-2023;$120.000;DIA NRO 15;1920000;cuenta de ahorro para la vivienda
+250018;50;20-01-2024;$240.000;DIA NRO 20;3600000;cuenta de ahorro para la vivienda
+250019;54;01-03-2024;$260.000;DIA NRO 20;3380000;cuenta de ahorro para la vivienda
+250020;55;25-06-2024;$190.000;DIA NRO 20;1710000;cuenta de ahorro para la vivienda
+250021;62;15-09-2023;$170.000;DIA NRO 30;3230000;cuenta de ahorro para la vivienda
+250022;66;17-09-2024;$250.000;DIA NRO 30;1750000;cuenta de ahorro para la vivienda
+250023;67;05-02-2025;$125.000;DIA NRO 30;250000;cuenta de ahorro para la vivienda
+250024;71;30-07-2024;$400.000;DIA NRO 30;3200000;cuenta de ahorro para la vivienda
+250025;78;06-04-2025;$280.000;DIA NRO 30;0;cuenta de ahorro para la vivienda
+250026;83;15-11-2023;$210.000;DIA NRO 30;3570000;cuenta de ahorro para la vivienda
+250027;84;16-10-2024;$185.000;DIA NRO 25;1110000;cuenta de ahorro para la vivienda
+250028;85;29-12-2024;$230.000;DIA NRO 15;690000;cuenta de ahorro para la vivienda
+250029;90;18-02-2025;$170.000;DIA NRO 25;340000;cuenta de ahorro para la vivienda
+250030;92;16-02-2024;$300.000;DIA NRO 15;4200000;cuenta de ahorro para la vivienda
+250031;95;15-12-2023;$240.000;DIA NRO 10;3840000;cuenta de ahorro para la vivienda
+250032;100;25-03-2024;$190.000;DIA NRO 5;2280000;cuenta de ahorro para la vivienda
+250033;101;25-03-2024;$210.000;DIA NRO 30;2520000;cuenta de ahorro para la vivienda
+250034;102;12-12-2023;$310.000;DIA NRO 25;4960000;cuenta de ahorro para la vivienda
+250035;103;20-01-2024;$210.000;DIA NRO 25;3150000;cuenta de ahorro para la vivienda
+250036;104;01-03-2024;$165.000;DIA NRO 10;2145000;cuenta de ahorro para la vivienda
+250037;105;25-06-2024;$155.000;DIA NRO 10;1395000;cuenta de ahorro para la vivienda
+250038;108;15-09-2023;$120.000;DIA NRO 10;2280000;cuenta de ahorro para la vivienda
+250039;111;17-09-2024;$240.000;DIA NRO 15;1680000;cuenta de ahorro para la vivienda
+250040;113;05-02-2025;$260.000;DIA NRO 15;520000;cuenta de ahorro para la vivienda
+250041;115;30-07-2024;$190.000;DIA NRO 15;1520000;cuenta de ahorro para la vivienda
+250042;116;06-04-2025;$170.000;DIA NRO 15;0;cuenta de ahorro para la vivienda
+250043;120;15-11-2023;$195.000;DIA NRO 20;3315000;cuenta de ahorro para la vivienda
+250044;121;16-10-2024;$205.000;DIA NRO 20;1230000;cuenta de ahorro para la vivienda
+250045;126;29-12-2024;$210.000;DIA NRO 20;630000;cuenta de ahorro para la vivienda
+250046;128;18-02-2025;$190.000;DIA NRO 25;380000;cuenta de ahorro para la vivienda
+150001;2;12-12-2024;$25.000;DIA NRO 30;100000;cuenta de ahorro tradicional
+150002;3;20-01-2023;$12.500;DIA NRO 25;337500;cuenta de ahorro tradicional
+150003;7;01-03-2025;$40.000;DIA NRO 10;40000;cuenta de ahorro tradicional
+150004;9;25-06-2023;$28.000;DIA NRO 25;588000;cuenta de ahorro tradicional
+150005;10;15-09-2024;$21.000;DIA NRO 15;147000;cuenta de ahorro tradicional
+150006;11;17-09-2022;$18.500;DIA NRO 10;573500;cuenta de ahorro tradicional
+150007;12;05-02-2025;$23.000;DIA NRO 5;46000;cuenta de ahorro tradicional
+150008;18;30-07-2024;$17.000;DIA NRO 30;136000;cuenta de ahorro tradicional
+150009;21;06-04-2025;$30.000;DIA NRO 25;0;cuenta de ahorro tradicional
+150010;23;15-11-2024;$24.000;DIA NRO 25;120000;cuenta de ahorro tradicional
+150011;24;16-10-2023;$19.000;DIA NRO 10;342000;cuenta de ahorro tradicional
+150012;32;29-12-2024;$21.000;DIA NRO 10;63000;cuenta de ahorro tradicional
+150013;52;18-02-2025;$31.000;DIA NRO 10;62000;cuenta de ahorro tradicional
+150014;53;16-02-2024;$21.000;DIA NRO 15;294000;cuenta de ahorro tradicional
+150015;58;15-12-2023;$16.500;DIA NRO 15;264000;cuenta de ahorro tradicional
+150016;61;25-03-2024;$15.500;DIA NRO 15;186000;cuenta de ahorro tradicional
+150017;70;12-12-2023;$12.000;DIA NRO 15;192000;cuenta de ahorro tradicional
+150018;74;20-01-2024;$24.000;DIA NRO 20;360000;cuenta de ahorro tradicional
+150019;77;01-03-2024;$26.000;DIA NRO 20;338000;cuenta de ahorro tradicional
+150020;79;25-06-2024;$19.000;DIA NRO 20;171000;cuenta de ahorro tradicional
+150021;80;15-09-2023;$17.000;DIA NRO 30;323000;cuenta de ahorro tradicional
+150022;89;17-09-2024;$25.000;DIA NRO 30;175000;cuenta de ahorro tradicional
+150023;93;05-02-2025;$125.000;DIA NRO 30;250000;cuenta de ahorro tradicional
+150024;96;30-07-2024;$40.000;DIA NRO 30;320000;cuenta de ahorro tradicional
+150025;118;06-04-2025;$28.000;DIA NRO 30;0;cuenta de ahorro tradicional
+150026;119;15-11-2023;$21.000;DIA NRO 30;357000;cuenta de ahorro tradicional
+150027;124;16-10-2024;$18.500;DIA NRO 25;111000;cuenta de ahorro tradicional
+150028;125;29-12-2024;$23.000;DIA NRO 15;69000;cuenta de ahorro tradicional
+150029;129;18-02-2025;$170.000;DIA NRO 25;340000;cuenta de ahorro tradicional
+100001;1;12-12-2014;$25.000;DIA NRO 30;2800000;cuenta de ahorro dorada
+100002;4;20-01-2012;$12.500;DIA NRO 25;1837500;cuenta de ahorro dorada
+100003;8;01-03-2016;$40.000;DIA NRO 10;3880000;cuenta de ahorro dorada
+100004;19;25-06-2023;$28.000;DIA NRO 25;588000;cuenta de ahorro dorada
+100005;20;15-09-2013;$21.000;DIA NRO 15;2667000;cuenta de ahorro dorada
+100006;22;17-09-2022;$18.500;DIA NRO 10;573500;cuenta de ahorro dorada
+100007;25;05-02-2020;$23.000;DIA NRO 5;1150000;cuenta de ahorro dorada
+100008;43;30-07-2019;$17.000;DIA NRO 30;952000;cuenta de ahorro dorada
+100009;45;06-04-2025;$30.000;DIA NRO 25;0;cuenta de ahorro dorada
+100010;48;15-11-2024;$24.000;DIA NRO 25;120000;cuenta de ahorro dorada
+100011;51;16-10-2023;$19.000;DIA NRO 10;342000;cuenta de ahorro dorada
+100012;56;29-12-2024;$21.000;DIA NRO 10;63000;cuenta de ahorro dorada
+100013;57;18-02-2015;$31.000;DIA NRO 10;3410000;cuenta de ahorro dorada
+100014;63;16-02-2016;$21.000;DIA NRO 15;2058000;cuenta de ahorro dorada
+100015;64;15-12-2023;$16.500;DIA NRO 15;264000;cuenta de ahorro dorada
+100016;65;25-03-2022;$15.500;DIA NRO 15;558000;cuenta de ahorro dorada
+100017;72;12-12-2019;$12.000;DIA NRO 15;624000;cuenta de ahorro dorada
+100018;75;20-01-2018;$24.000;DIA NRO 20;1800000;cuenta de ahorro dorada
+100019;76;01-03-2017;$26.000;DIA NRO 20;2210000;cuenta de ahorro dorada
+100020;81;25-06-2017;$19.000;DIA NRO 20;1539000;cuenta de ahorro dorada
+100021;82;15-09-2016;$17.000;DIA NRO 30;1547000;cuenta de ahorro dorada
+100022;88;17-09-2024;$25.000;DIA NRO 30;175000;cuenta de ahorro dorada
+100023;106;05-02-2018;$125.000;DIA NRO 30;9250000;cuenta de ahorro dorada
+100024;107;30-07-2018;$40.000;DIA NRO 30;962720000;cuenta de ahorro dorada
+100025;109;06-04-2016;$28.000;DIA NRO 30;2688000;cuenta de ahorro dorada
+100026;112;15-11-2016;$21.000;DIA NRO 30;1869000;cuenta de ahorro dorada
+100027;117;16-10-2016;$18.500;DIA NRO 25;1665000;cuenta de ahorro dorada
+100028;122;29-12-2022;$23.000;DIA NRO 15;621000;cuenta de ahorro dorada
+100029;123;18-02-2016;$170.000;DIA NRO 25;16660000;cuenta de ahorro dorada
+100030;127;29-12-2024;$120.000;DIA NRO 10;360000;cuenta de ahorro dorada
+100031;130;18-02-2016;$80.000;DIA NRO 10;7840000;cuenta de ahorro dorada
+300001;16;09-12-1997;$25.000;DIA NRO 30;7900000;dep¢sito a plazo
+300002;17;17-10-1998;$12.500;DIA NRO 25;3825000;dep¢sito a plazo
+300003;28;14-09-1999;$40.000;DIA NRO 10;11800000;dep¢sito a plazo
+300004;30;04-04-1999;$28.000;DIA NRO 25;8400000;dep¢sito a plazo
+300005;33;19-04-1998;$21.000;DIA NRO 15;6552000;dep¢sito a plazo
+300006;35;25-05-1996;$18.500;DIA NRO 10;6179000;dep¢sito a plazo
+300007;36;19-11-1998;$23.000;DIA NRO 5;7015000;dep¢sito a plazo
+300008;37;07-07-1999;$17.000;DIA NRO 30;5049000;dep¢sito a plazo
+300009;46;09-10-1997;$30.000;DIA NRO 25;9540000;dep¢sito a plazo
+300010;49;29-03-1998;$24.000;DIA NRO 25;7488000;dep¢sito a plazo
+300011;59;04-01-1996;$19.000;DIA NRO 10;6441000;dep¢sito a plazo
+300012;60;10-05-1998;$21.000;DIA NRO 10;6531000;dep¢sito a plazo
+300013;68;06-01-1996;$31.000;DIA NRO 10;10509000;dep¢sito a plazo
+300014;69;12-01-1996;$21.000;DIA NRO 15;7119000;dep¢sito a plazo
+300015;73;09-09-1998;$16.500;DIA NRO 15;5065500;dep¢sito a plazo
+300016;86;17-02-1999;$15.500;DIA NRO 15;4681000;dep¢sito a plazo
+300017;87;12-08-1998;$12.000;DIA NRO 15;3696000;dep¢sito a plazo
+300018;91;18-10-1999;$24.000;DIA NRO 20;7056000;dep¢sito a plazo
+300019;94;23-11-1999;$26.000;DIA NRO 20;7592000;dep¢sito a plazo
+300020;97;28-02-1997;$19.000;DIA NRO 20;6175000;dep¢sito a plazo
+250047;97;28-02-1997;$19.000;DIA NRO 20;6175000;cuenta de ahorro para la vivienda
+300021;98;30-09-1998;$17.000;DIA NRO 30;5202000;dep¢sito a plazo
+300022;99;19-12-1999;$25.000;DIA NRO 30;7300000;dep¢sito a plazo
+300023;110;01-10-1997;$125.000;DIA NRO 30;39750000;dep¢sito a plazo
+300024;114;30-04-1998;$40.000;DIA NRO 30;12440000;dep¢sito a plazo
